@@ -35,10 +35,7 @@ I am a committed, passionate, and self-motivated Computational Physics undergrad
 * **Focus:** Conducting a DFT study on the phase stability of WAIB and MoAIB materials under high-pressure conditions
 * **Application:** Investigating properties such as high hardness, thermal stability, and electrical conductivity as precursors to 2D MBene materials for electronics and optoelectronics applications
 
-#### 📱 Portable Instrument for Heavy Metal Ion Concentration Detection
-* **Timeline:** Dec 2023 - Feb 2024
-* **Focus:** Developed a portable instrument for determining heavy metal ion concentration in drinking water
-* **Method:** Utilizing absorbance spectroscopy techniques via a homemade spectrometer, a smartphone camera, and Python image analysis methods
+
 
 ---
 
